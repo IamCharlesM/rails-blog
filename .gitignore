@@ -14,7 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
-temp_auto_push.bat
 !/log/.keep
 !/tmp/.keep
 
