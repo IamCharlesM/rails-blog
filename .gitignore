@@ -13,7 +13,6 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
-temp_auto_push.bat
 /tmp/*
 !/log/.keep
 !/tmp/.keep
