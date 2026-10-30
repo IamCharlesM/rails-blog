@@ -14,7 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
-temp_auto_push.bat
 !/log/.keep
 !/tmp/.keep
 
@@ -32,4 +31,3 @@ temp_auto_push.bat
 /config/master.key
 
 
-branch_structure.json
