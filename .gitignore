@@ -13,7 +13,6 @@
 
 # Ignore all logfiles and tempfiles.
 /log/*
-temp_auto_push.bat
 /tmp/*
 !/log/.keep
 !/tmp/.keep
@@ -30,4 +29,3 @@ temp_auto_push.bat
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-branch_structure.json
